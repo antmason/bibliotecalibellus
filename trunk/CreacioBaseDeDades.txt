@@ -1,0 +1,15 @@
+-Realitzar operacions amb la base de dades
+
+Tenim la classe llibre.
+
+Per operar amb la base de dades Creem la classe DBLlibreGateway
+
+ -Els mètodes que tindà seran:
+ 	-afegirLlibre(Llibre)
+	-cercarLlibre(isbn)
+
+
+La connexió l'implementarem en una Classe DBGateway que tindrà
+
+ -Obrir connexió
+ -Tancar connexió
