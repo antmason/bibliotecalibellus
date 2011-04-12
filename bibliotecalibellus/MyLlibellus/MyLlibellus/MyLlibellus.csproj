@@ -48,6 +48,12 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="AfegirLlibre.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AfegirLlibre.Designer.cs">
+      <DependentUpon>AfegirLlibre.cs</DependentUpon>
+    </Compile>
     <Compile Include="BibliotecaDataSet.Designer.cs">
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
@@ -62,6 +68,9 @@
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="AfegirLlibre.resx">
+      <DependentUpon>AfegirLlibre.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="LlibreriaPersonal.resx">
       <DependentUpon>LlibreriaPersonal.cs</DependentUpon>
       <SubType>Designer</SubType>

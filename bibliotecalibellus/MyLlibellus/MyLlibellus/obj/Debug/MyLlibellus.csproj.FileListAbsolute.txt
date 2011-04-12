@@ -1,9 +1,7 @@
-C:\Users\Kenichi\Desktop\MyLibellus\bibliotecalibellus\MyLlibellus\MyLlibellus\bin\Debug\MyLlibellus.exe.config
-C:\Users\Kenichi\Desktop\MyLibellus\bibliotecalibellus\MyLlibellus\MyLlibellus\bin\Debug\MyLlibellus.exe
-C:\Users\Kenichi\Desktop\MyLibellus\bibliotecalibellus\MyLlibellus\MyLlibellus\bin\Debug\MyLlibellus.pdb
-C:\Users\Kenichi\Desktop\MyLibellus\bibliotecalibellus\MyLlibellus\MyLlibellus\obj\Debug\ResolveAssemblyReference.cache
-C:\Users\Kenichi\Desktop\MyLibellus\bibliotecalibellus\MyLlibellus\MyLlibellus\obj\Debug\MyLlibellus.Properties.Resources.resources
-C:\Users\Kenichi\Desktop\MyLibellus\bibliotecalibellus\MyLlibellus\MyLlibellus\obj\Debug\MyLlibellus.csproj.GenerateResource.Cache
-C:\Users\Kenichi\Desktop\MyLibellus\bibliotecalibellus\MyLlibellus\MyLlibellus\obj\Debug\MyLlibellus.exe
-C:\Users\Kenichi\Desktop\MyLibellus\bibliotecalibellus\MyLlibellus\MyLlibellus\obj\Debug\MyLlibellus.pdb
-C:\Users\Kenichi\Desktop\MyLibellus\bibliotecalibellus\MyLlibellus\MyLlibellus\obj\Debug\MyLlibellus.frm_llibreriaPersonal.resources
+C:\Users\Marc\Desktop\MyLibellus\bibliotecalibellus\bibliotecalibellus\MyLlibellus\MyLlibellus\bin\Debug\MyLlibellus.exe.config
+C:\Users\Marc\Desktop\MyLibellus\bibliotecalibellus\bibliotecalibellus\MyLlibellus\MyLlibellus\obj\Debug\MyLlibellus.exe
+C:\Users\Marc\Desktop\MyLibellus\bibliotecalibellus\bibliotecalibellus\MyLlibellus\MyLlibellus\obj\Debug\MyLlibellus.pdb
+C:\Users\Marc\Desktop\MyLibellus\bibliotecalibellus\bibliotecalibellus\MyLlibellus\MyLlibellus\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Marc\Desktop\MyLibellus\bibliotecalibellus\bibliotecalibellus\MyLlibellus\MyLlibellus\obj\Debug\MyLlibellus.frm_llibreriaPersonal.resources
+C:\Users\Marc\Desktop\MyLibellus\bibliotecalibellus\bibliotecalibellus\MyLlibellus\MyLlibellus\obj\Debug\MyLlibellus.Properties.Resources.resources
+C:\Users\Marc\Desktop\MyLibellus\bibliotecalibellus\bibliotecalibellus\MyLlibellus\MyLlibellus\obj\Debug\MyLlibellus.csproj.GenerateResource.Cache
