@@ -6,3 +6,4 @@ C:\Users\Marc\Desktop\MyLibellus\bibliotecalibellus\bibliotecalibellus\MyLlibell
 C:\Users\Marc\Desktop\MyLibellus\bibliotecalibellus\bibliotecalibellus\MyLlibellus\MyLlibellus\obj\Debug\MyLlibellus.Properties.Resources.resources
 C:\Users\Marc\Desktop\MyLibellus\bibliotecalibellus\bibliotecalibellus\MyLlibellus\MyLlibellus\obj\Debug\MyLlibellus.csproj.GenerateResource.Cache
 C:\Users\Marc\Desktop\MyLibellus\bibliotecalibellus\bibliotecalibellus\MyLlibellus\MyLlibellus\obj\Debug\MyLlibellus.AfegirLlibre.resources
+C:\Users\Marc\Desktop\MyLibellus\bibliotecalibellus\bibliotecalibellus\MyLlibellus\MyLlibellus\obj\Debug\MyLlibellus.Form1.resources
