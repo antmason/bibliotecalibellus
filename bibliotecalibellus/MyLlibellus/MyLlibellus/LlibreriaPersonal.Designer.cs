@@ -172,7 +172,6 @@
             this.Controls.Add(this.gb_mostraLlibres);
             this.Name = "frm_llibreriaPersonal";
             this.Text = "Llibreria personal";
-            this.Load += new System.EventHandler(this.frm_llibreriaPersonal_Load);
             this.gb_mostraLlibres.ResumeLayout(false);
             ((System.ComponentModel.ISupportInitialize)(this.dgw_taulaLlibres)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.bibliotecaDataSet)).EndInit();
@@ -188,8 +187,6 @@
         private System.Windows.Forms.Button bt_Modificar;
         private System.Windows.Forms.Button bt_afegir;
         private System.Windows.Forms.Button bt_eliminar;
-        private BibliotecaDataSet1 bibliotecaDataSet1;
-        private MyLlibellus.BibliotecaDataSet1TableAdapters.LlibreTableAdapter llibreTableAdapter;
         private System.Windows.Forms.DataGridViewTextBoxColumn isbnDataGridViewTextBoxColumn;
         private System.Windows.Forms.DataGridViewTextBoxColumn titolcurtDataGridViewTextBoxColumn;
         private System.Windows.Forms.DataGridViewTextBoxColumn titolllargDataGridViewTextBoxColumn;
