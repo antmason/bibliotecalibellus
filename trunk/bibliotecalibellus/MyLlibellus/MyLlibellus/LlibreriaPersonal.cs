@@ -16,13 +16,5 @@ namespace MyLlibellus
             InitializeComponent();
         }
 
-        private void frm_llibreriaPersonal_Load(object sender, EventArgs e)
-        {
-            // TODO: esta línea de código carga datos en la tabla 'bibliotecaDataSet.Llibre' Puede moverla o quitarla según sea necesario.
-            this.llibreTableAdapter1.Fill(this.bibliotecaDataSet.Llibre);
-            // TODO: esta línea de código carga datos en la tabla 'bibliotecaDataSet1.Llibre' Puede moverla o quitarla según sea necesario.
-            this.llibreTableAdapter.Fill(this.bibliotecaDataSet1.Llibre);
-
-        }
     }
 }

@@ -2,6 +2,9 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
+using System.Data.SqlClient;
+using System.Configuration;
+
 
 namespace MyLlibellus
 {
@@ -11,7 +14,7 @@ namespace MyLlibellus
         /// Obtenir cadena de connexió de la BD alumnes (MARC).
         /// </summary>
         /// <returns></returns>
-        public static SqlConnection obtenirConnexioBibliotecaMarc()
+        public static SqlConnection obtenirConnexioBiblioteca()
         {
             string cadConnexio =
                 ConfigurationManager.ConnectionStrings["MyLlibellus.Properties.Settings.ConnexioBiblioteca"].ConnectionString;

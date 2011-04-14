@@ -32,6 +32,7 @@
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
+    <Reference Include="System.configuration" />
     <Reference Include="System.Core">
       <RequiredTargetFramework>3.5</RequiredTargetFramework>
     </Reference>
@@ -61,6 +62,13 @@
       <DependentUpon>BibliotecaDataSet.xsd</DependentUpon>
     </Compile>
     <Compile Include="DBConnexio.cs" />
+    <Compile Include="DBLlibreGateWay.cs" />
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
     <Compile Include="Llibre.cs" />
     <Compile Include="LlibreriaPersonal.cs">
       <SubType>Form</SubType>
@@ -74,10 +82,16 @@
       <DependentUpon>AfegirLlibre.cs</DependentUpon>
       <SubType>Designer</SubType>
     </EmbeddedResource>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
     <EmbeddedResource Include="LlibreriaPersonal.resx">
       <DependentUpon>LlibreriaPersonal.cs</DependentUpon>
       <SubType>Designer</SubType>
     </EmbeddedResource>
+    <EmbeddedResource Include="obj\Debug\MyLlibellus.frm_llibreriaPersonal.resources" />
+    <EmbeddedResource Include="obj\Debug\MyLlibellus.Properties.Resources.resources" />
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
       <LastGenOutput>Resources.Designer.cs</LastGenOutput>
@@ -99,6 +113,11 @@
     <None Include="BibliotecaDataSet.xss">
       <DependentUpon>BibliotecaDataSet.xsd</DependentUpon>
     </None>
+    <None Include="BibliotecaDataSet1.xss" />
+    <None Include="bin\Debug\MyLlibellus.exe.config" />
+    <None Include="bin\Debug\MyLlibellus.vshost.exe.config" />
+    <None Include="bin\Debug\MyLlibellus.vshost.exe.manifest" />
+    <None Include="obj\Debug\MyLlibellus.csproj.GenerateResource.Cache" />
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
       <LastGenOutput>Settings.Designer.cs</LastGenOutput>
@@ -108,6 +127,19 @@
       <DependentUpon>Settings.settings</DependentUpon>
       <DesignTimeSharedInput>True</DesignTimeSharedInput>
     </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="bin\Debug\MyLlibellus.exe" />
+    <Content Include="bin\Debug\MyLlibellus.pdb" />
+    <Content Include="bin\Debug\MyLlibellus.vshost.exe" />
+    <Content Include="obj\Debug\MyLlibellus.csproj.FileListAbsolute.txt" />
+    <Content Include="obj\Debug\MyLlibellus.exe" />
+    <Content Include="obj\Debug\MyLlibellus.pdb" />
+    <Content Include="obj\Debug\TempPE\BibliotecaDataSet.Designer.cs.dll" />
+    <Content Include="obj\Debug\TempPE\BibliotecaDataSet1.Designer.cs.dll" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="obj\Debug\Refactor\" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
